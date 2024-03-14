@@ -1,2 +1,4 @@
+# REQUESTING USER TO MAKE AN INPUT
 user_input = input("Please input something:")
+# PRINTING OUT VARIABLE THAT REPRESENT USER INPUT REQUESTED EARLIER
 print(user_input)
